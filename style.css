@@ -1,0 +1,19 @@
+th, td {
+	border: 2px black solid;
+	text-align: center;
+}
+
+table {
+	border-collapse: collapse;
+	background: white;
+	width: 100%;
+}
+
+body {
+	background: url(1640699511_27-abrakadabra-fun-p-futbolnoe-pole-risunok-sverkhu-30.png);
+	background-size: 100%;
+}
+
+h1 {
+	text-align: center;
+}
